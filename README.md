@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/KH7NH](https://github.com/KH7NH)
 
-- 💬 Ask me about **React, Nodejs**
+- 💬 Ask me about **React, Java, Nodejs**
 
 - 📫 How to reach me **duckhanh050620003@gmail.com**
 
